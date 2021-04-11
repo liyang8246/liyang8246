@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @liyang8246
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-liyang8246/liyang8246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+一个普普通通的高中生
+生日是2004.07.09
+现在在韶关市第一中学念书
+天知道十年之后这个账号会有什么变化
