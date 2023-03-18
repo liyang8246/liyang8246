@@ -1,4 +1,4 @@
-![Liyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyang8246)
+![Liyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyang8246&show_icons=true)
 
 ![Metrics](https://metrics.lecoq.io/liyang8246?template=classic&base.hireable=true&isocalendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FShanghai)
 
