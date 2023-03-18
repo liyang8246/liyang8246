@@ -1,5 +1,7 @@
 ![Metrics](https://metrics.lecoq.io/liyang8246?template=classic&base.hireable=true&isocalendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FShanghai)
 
+![LiYang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=liyang8246&show_icons=true&count_private=true&theme=gotham)
+
   ### 2021.04.03
   一个普普通通的高中生 生日是2004.07.09
   
