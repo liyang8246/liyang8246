@@ -1,4 +1,4 @@
-|![Liyang's GitHub stats](https://github-stats-extended.vercel.app/api?username=liyang8246&show_icons=true) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=liyang8246&layout=compact&langs_count=4) |
+|![Liyang's GitHub stats](https://github-stats-extended.vercel.app/api?username=liyang8246&show_icons=true) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=liyang8246&hide_title=true&langs_count=4) |
 | ----------- | ----------- |
 ### 2021.04.03
 一个普普通通的高中生 生日是2004.07.09
